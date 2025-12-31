@@ -1,0 +1,22 @@
+# requirements.txt
+# Installation command: pip install -r requirements.txt
+
+# PyTorch (choose appropriate installation command based on CUDA version)
+# Official installation page: https://pytorch.org/get-started/locally/
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Data processing
+numpy>=1.19.0
+pandas>=1.2.0
+openpyxl>=3.0.0  # For reading and writing Excel files
+
+# Machine learning tools
+scikit-learn>=0.24.0
+joblib>=1.0.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Optional: progress bar
+tqdm>=4.60.0
