@@ -34,6 +34,6 @@ A novel metric for holistic assessment of mechanical performance, revealing that
 This framework significantly accelerates material design cycles and enables rapid performance screening for woven ceramic fabric systems in aerospace, thermal protection, and advanced composite applications.
 
 # References
-[1] Zhou Jiang, Mingming Xu, Jian Suna, Jinsong Leng. Rapid Mechanical Prediction of Woven Ceramic Fabrics via a Neural Network Surrogate Model Based on the Parameterized Unit Cell.Composite Structures. 2026, Volume 382:120107. 10.1016/j.compstruct.2026.120107
+[1] Zhou Jiang, Mingming Xu, Jian Suna, Jinsong Leng. Rapid Mechanical Prediction of Woven Ceramic Fabrics via a Neural Network Surrogate Model Based on the Parameterized Unit Cell. Composite Structures. 2026, Volume 382:120107. 10.1016/j.compstruct.2026.120107
 
 [2] Mingming Xu, Elena Sitnikova, and Shuguang Li. Unification and parameterisation of 2D and 3D weaves and the formulation of a unit cell for composites made of such preforms. Composites Part A: Applied Science and Manufacturing. 2020, Volumw 133:105868. 10.1016/j.compositesa.2020.105868
